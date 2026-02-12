@@ -45,7 +45,7 @@ The evaluation is performed on the Italian subsample of **European Social Survey
 
 ---
 
-## Keywords (recruiter-friendly)
+## Keywords 
 **LLM Evaluation, Prompt Engineering, Persona Modeling, Synthetic Data, Survey Simulation, Bias & Calibration, Reproducibility, PCA, Experimental Design, Python, JSON-constrained generation, Social Data / ESS**
 
 ---
@@ -54,9 +54,7 @@ The evaluation is performed on the Italian subsample of **European Social Survey
 - `thesis.pdf` — full thesis document
 - `README.md` — this page
 
-*(Optional future additions: code, notebooks, figures, experiment logs, and a reproducibility guide.)*
 
----
 
 ## How to cite
 If you reference this work, please cite the thesis:
