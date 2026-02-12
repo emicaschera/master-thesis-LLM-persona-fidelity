@@ -9,7 +9,7 @@
 
 ---
 
-## Abstract (short)
+## Abstract 
 This thesis investigates whether Large Language Models (LLMs) can approximate **real human survey responses** in politically salient domains when impersonating **survey-grounded personas** (multi-attribute profiles built from socio-demographic and attitudinal variables).  
 The evaluation is performed on the Italian subsample of **European Social Survey (ESS) Round 11 (2023–2024)**, comparing human responses against multiple LLMs under controlled replication and prompting constraints.
 
